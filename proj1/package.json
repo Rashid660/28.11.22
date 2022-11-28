@@ -1,0 +1,18 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "debug": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rashid",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.2",
+    "bootstrap": "^5.2.3"
+    
+  }
+}
